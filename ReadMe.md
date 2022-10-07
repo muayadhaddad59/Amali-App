@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muayad Haddad) 
 
+Video
 https://user-images.githubusercontent.com/74570275/194561927-bebf856c-27aa-4abc-a65b-a66e217755a6.mov
 
 # 💻 Tech Stack:
