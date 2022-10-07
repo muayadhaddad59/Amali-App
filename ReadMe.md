@@ -1,6 +1,5 @@
 
 ## 🌐 Socials:
-[![![ezgif-2-f574098b5a](https://user-images.githubusercontent.com/74570275/194560216-cf789c81-26db-4fac-9411-089438084770.gif)
 LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muayad Haddad) 
 
 # 💻 Tech Stack:
