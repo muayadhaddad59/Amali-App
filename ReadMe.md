@@ -2,7 +2,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muayad Haddad) 
 
-![ezgif-2-f574098b5a](https://user-images.githubusercontent.com/74570275/194560416-b0bde503-7689-4301-8350-06c0ec867659.gif)
 
 
 
